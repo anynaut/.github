@@ -1,8 +1,5 @@
-# .github
-
+# Welcome to [Naut Software](https://nautsoftware.com/)!
 ## Introduction
-
-Welcome to [Naut Software](https://nautsoftware.com/)!
 
 Naut Software is a technology company dedicated to building innovative software solutions. We focus on delivering high-quality products and services that help businesses and individuals achieve their goals through cutting-edge technology.
 
